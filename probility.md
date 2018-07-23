@@ -42,3 +42,7 @@ Linear Classification and Support Vector Machine and Stochastic Gradient Descent
 - Stochastic Gradient Descent  
 - Mini-Batch Stochastic Gradient Descent  
 - Dual Problem
+---
+Adam Gradient 
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_6.png)
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_7.png)
