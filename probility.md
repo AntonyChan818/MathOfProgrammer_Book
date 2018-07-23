@@ -16,3 +16,16 @@ P(D|θ) 是样本D相对于类标记θ的类条件概率，也就是我们理解
 
 
 ---
+- learning map  
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_1.png)
+- Supervised learning  
+dataset:  
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_2.png)  
+
+- Linear Regression 拟合问题  
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_3.png)
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_4.png)  
+
+- closed form solution  
+- regularized least square regression  
+- gradient descent
