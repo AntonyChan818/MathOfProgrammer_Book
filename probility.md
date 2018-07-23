@@ -30,3 +30,15 @@ dataset:
 - regularized least square regression  
 - gradient descent  
 ![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_5.png)
+---
+
+
+Linear Classification and Support Vector Machine and Stochastic Gradient Descent 
+- Linear Classification  
+- support Vector machine  
+使用支持向量机模型来寻找最好的分类器  
+<matrix cookbook>  
+
+- Stochastic Gradient Descent  
+- Mini-Batch Stochastic Gradient Descent  
+- Dual Problem
