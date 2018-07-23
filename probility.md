@@ -28,4 +28,5 @@ dataset:
 
 - closed form solution  
 - regularized least square regression  
-- gradient descent
+- gradient descent  
+![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_5.png)
