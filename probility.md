@@ -46,3 +46,6 @@ Linear Classification and Support Vector Machine and Stochastic Gradient Descent
 Adam Gradient 
 ![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_6.png)
 ![](https://github.com/AntonyChan818/MathOfProgrammer_Book/blob/master/Res/DL_7.png)
+---
+docker  
+
